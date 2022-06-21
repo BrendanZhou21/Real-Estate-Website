@@ -1,0 +1,14 @@
+body {
+  padding-bottom: 20px;
+  background-color: light lightblue;
+}
+
+H1{
+  padding-left: 20px;
+  background-color: light rgb(255, 255, 255);
+  text-align: center;
+}
+
+html{
+  background-color: lightblue;
+}
