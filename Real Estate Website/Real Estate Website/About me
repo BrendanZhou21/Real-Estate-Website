@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Brendan Zhou, Jessica Huang, and Dylan Zhou">
+    <meta name="generator" content="Hugo 0.98.0">
+    <title>LeCrown Real Estate</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/carousel/">
+
+    
+
+    
+
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+    footer{
+        text-align: center;
+    }
+    body{
+        text-align: center;
+    }
+</style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="carousel.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<header>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">LeCrown Real Estate</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="AboutMe.html">About Me</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="InteractiveTours.html">Interactive Tours</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="NewConstruction.html">New Construction</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Relocation.html">Relocation</a>
+          </li>
+          <li class="nav-item">
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Buyers.html">Buyers</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="sellers.html">Sellers</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Sold.html">Sold</a>
+          </li>
+
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<main>
+
+ 
+
+
+  
+
+
+
+
+    <!-- START THE FEATURETTES -->
+
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading fw-normal lh-1"> My Experience </span></h2>
+        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam mi, elementum eget lobortis commodo, semper nec odio. Phasellus malesuada, mi id tincidunt dictum, diam purus cursus neque, in ullamcorper neque ante vulputate augue. Duis feugiat, eros ut varius auctor, dui ex tincidunt massa, id imperdiet ante arcu a massa. Curabitur a sem orci. Quisque dignissim sed ante nec venenatis. Integer imperdiet mauris ut velit luctus porttitor. Nulla luctus, nisi ut sodales laoreet, risus tellus posuere mauris, non egestas augue ex ac arcu. Mauris aliquam mi velit, non vehicula lacus ultrices eget. Mauris et luctus lorem, nec maximus quam. In hac habitasse platea dictumst. Sed faucibus a velit ut volutpat. In feugiat iaculis elit elementum vulputate. Morbi ut urna id diam ultrices aliquet quis vitae dui. Cras bibendum ipsum nec neque imperdiet, nec rhoncus metus aliquam. Fusce in tortor ultrices, mattis urna non, auctor enim.</p>
+      </div>
+      <div class="col-5">
+        
+
+      </div>
+    </div>
+
+
+    <div class="row featurette">
+      <div class="col-md-6 order-md-2">
+        <h2 class="featurette-heading fw-normal lh-1">My Background</span></h2>
+        <p class="lead">Integer at faucibus erat. Cras ex eros, dictum sed magna sit amet, blandit cursus mauris. Mauris ac magna sit amet enim laoreet ultricies at nec nunc. Suspendisse aliquam est erat, vel ultricies neque lacinia non. Nulla porta nulla sed nisl rutrum imperdiet. Integer blandit erat tellus, facilisis ornare diam venenatis in. Integer in libero velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce faucibus risus at fermentum elementum. Integer varius faucibus rhoncus. Maecenas non lectus eget ante lacinia dapibus ac luctus augue. Phasellus accumsan nunc et leo pulvinar, sit amet ornare nibh pellentesque. Sed quis tristique lectus. Aenean at augue nisl. Sed varius egestas nunc, vitae porta sem varius eget.</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+       
+
+      </div>
+    </div>
+
+
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading fw-normal lh-1">How I can help find you a home </span></h2>
+        <p class="lead">Suspendisse nec erat tortor. Integer consequat, ex at congue ullamcorper, libero urna tempor massa, eget porta quam odio a ante. Sed varius efficitur risus, ut viverra enim porta non. Maecenas non porta enim. Duis at enim massa. Duis faucibus est in justo dignissim sagittis. Phasellus sit amet posuere lorem, vitae venenatis lectus.</p>
+      </div>
+      <div class="col-md-5">
+       
+
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+
+
+  </div>
+
+
+
+  <footer class="container">
+    <h4 class="float-middle"></h4><a href="#">Back to the top</a></h4>
+    <P>
+        Contact me at huangjiett@yahoo.com (832)-798-3991
+    </P>
+    <h5>&copy; LeCrown Real Estate </h5>
+  </footer>
+</main>
+
+
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
